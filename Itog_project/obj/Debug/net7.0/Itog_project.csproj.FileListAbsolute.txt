@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\bin\Debug\net7.0\Itog_project.exe
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\bin\Debug\net7.0\Itog_project.deps.json
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\bin\Debug\net7.0\Itog_project.runtimeconfig.json
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\bin\Debug\net7.0\Itog_project.dll
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\bin\Debug\net7.0\Itog_project.pdb
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.dll
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\refint\Itog_project.dll
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.pdb
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\Itog_project.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Itog_Project\Itog_project\obj\Debug\net7.0\ref\Itog_project.dll
